@@ -1,0 +1,14 @@
+{
+  "env_kwargs": {
+    "scenario": "mixed",
+    "reward_version": "v2",
+    "reward_timing": "accrual",
+    "max_overtakes": null
+  },
+  "version": "v2",
+  "timesteps": 2000000,
+  "max_overtakes": null,
+  "n_envs": 8,
+  "seed": 0,
+  "run_name": null
+}
