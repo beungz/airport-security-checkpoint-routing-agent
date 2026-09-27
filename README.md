@@ -135,12 +135,6 @@ Install the requirements (Python 3.11):<br>
 pip install -r requirements.txt
 ```
 
-Optional: sanity-check the environment (passenger mix, priority share, lane loads):<br>
-
-```
-python check_env.py
-```
-
 Train the three agents (saved to `runs/<name>/`):<br>
 
 ```
